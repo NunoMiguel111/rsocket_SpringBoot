@@ -1,0 +1,10 @@
+spring:
+  rsocket:
+    server:
+      port: 7000
+
+logging:
+  level:
+    com:
+      server:
+        RSocket=DEBUG:
